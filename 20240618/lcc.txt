@@ -1,0 +1,4 @@
+Hello python 第一階
+100
+Hello python 第一階
+100
